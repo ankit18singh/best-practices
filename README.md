@@ -2,6 +2,13 @@
 
 This repo was created as a solution to unify the dev community towards following the best practices and guidelines to write clean codes and create better software products.
 
+### List of contents
+1. [Exploring your IDE](docs/1.explore_your_ide.md)
+2. [Utilising the power of Git](docs/2.utilising_the_power_of_git.md)
+3. [Coding Ethics](docs/3.coding_ethics.md)
+4. [Productivity Tools](docs/4.productivity_tools.md)
+5. [Misc](docs/5.misc.md)
+
 ### Contribution rules:
 1. Create a new issue and add the following tags, for better understanding.
    - `new-rules`: If you feels we missed something or their is something that needs to be added.
